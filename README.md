@@ -125,7 +125,7 @@ Here’s how the CV will look:
 ## 🔗 Links
 
 - [Live Demo](https://cv-lalatendu.pages.dev/)
-- [GitHub Repository](https://cv-lalatendu.pages.dev)
+- [GitHub Repository](https://github.com/Lalatenduswain/online-cv/)
 
 ---
 
