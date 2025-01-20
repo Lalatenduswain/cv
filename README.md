@@ -71,8 +71,8 @@ const profileData = {
   about: {
     intro: "A highly motivated cybersecurity professional...",
     contact: {
-      email: "swain@lalatendu.info",
-      phone: "+91-933 8686 594",
+      email: "your@example.com",
+      phone: "+91-9*********4",
       address: "Bangalore, India",
     },
   },
