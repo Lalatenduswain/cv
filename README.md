@@ -118,7 +118,7 @@ To change the design, open `css/style.css`. You can adjust:
 Here’s how the CV will look:
 
 ![Online CV Screenshot](https://lh3.googleusercontent.com/pw/AP1GczP4XuYjP_UDsl4DtsJg31vO7YN20ynYfTqvAnynZZLx3uG2RExrGacqz-ueHP36qhIJYJEBgBAGb_q36DALbzwEfPcEZ-DU5syAuNJ1uFg0NsdEp61s=w1024)  
-*(Replace this placeholder URL with an actual screenshot of your CV)*
+
 
 ---
 
