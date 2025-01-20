@@ -124,7 +124,7 @@ Here’s how the CV will look:
 
 ## 🔗 Links
 
-- [Live Demo](#) *(Replace this with the live site link)*
+- [Live Demo](https://cv-lalatendu.pages.dev/)
 - [GitHub Repository](https://cv-lalatendu.pages.dev)
 
 ---
