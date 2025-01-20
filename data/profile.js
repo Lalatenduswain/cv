@@ -91,7 +91,7 @@ const profileData = {
       },
       {
         alma: "Orissa Board, CHSE",
-        duration: "2003 - 2005",
+        duration: "2005 - 2007",
         std: "Higher Secondary (Class XII)",
       },
     ],
