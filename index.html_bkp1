@@ -38,7 +38,7 @@
       name="twitter:image"
       content="https://raw.githubusercontent.com/imvpn22/imvpn22.github.io/master/assets/images/dp.png"
     />
-    <title>Resume | John Doe</title>
+    <title>Resume | Lalatendu K Swain</title>
     <link
       href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600&display=swap"
       rel="stylesheet"
@@ -54,32 +54,6 @@
     ></script>
     <script src="data/profile.js" defer></script>
     <script src="assets/js/main.js" defer></script>
-    <script type="text/javascript">
-      document.addEventListener("DOMContentLoaded", function() {
-        // Function to remove undefined text
-        function removeUndefinedText() {
-          const elements = document.querySelectorAll("body *");
-      
-          elements.forEach(element => {
-            if (element.childNodes.length) {
-              element.childNodes.forEach(child => {
-                if (child.nodeType === Node.TEXT_NODE && child.nodeValue.includes("undefined")) {
-                  child.nodeValue = child.nodeValue.replace(/undefined/g, "");
-                }
-              });
-            }
-          });
-        }
-      
-        // Call the function to remove undefined text
-        removeUndefinedText();
-      });
-      window.onload = function () {
-        document.body.style.display = "block";
-
-      };
-
-    </script>
   </head>
 
   <body>
@@ -107,7 +81,7 @@
               href=""
               rel="noopener noreferrer"
             >
-              abc@xyz.com
+              swain@lalatendu.info
             </a>
           </div>
         </div>
